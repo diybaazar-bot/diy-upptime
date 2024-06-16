@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/diybaazar.com.ico",
     "slug": "diy-baazar-home",
     "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "95.91%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
-    "time": 921,
-    "timeDay": 921,
-    "timeWeek": 921,
-    "timeMonth": 921,
-    "timeYear": 921,
-    "dailyMinutesDown": {
-      "2024-06-16": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 909,
+    "timeDay": 909,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DIY Baazar Dev - Home",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 1223,
-    "timeWeek": 1223,
-    "timeMonth": 1223,
-    "timeYear": 1223,
+    "time": 1178,
+    "timeDay": 1178,
+    "timeWeek": 1178,
+    "timeMonth": 1178,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   }
 ]
