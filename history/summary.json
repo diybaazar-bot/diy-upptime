@@ -40,19 +40,19 @@
     "url": "https://docs.diybaazar.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.diybaazar.com.ico",
     "slug": "diy-baazar-docs",
-    "status": "down",
-    "uptime": "32.19%",
-    "uptimeDay": "32.19%",
-    "uptimeWeek": "32.19%",
-    "uptimeMonth": "32.19%",
-    "uptimeYear": "32.19%",
-    "time": 1651,
-    "timeDay": 1651,
-    "timeWeek": 1651,
-    "timeMonth": 1651,
-    "timeYear": 1651,
+    "status": "up",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
+    "time": 1624,
+    "timeDay": 1624,
+    "timeWeek": 1624,
+    "timeMonth": 1624,
+    "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 40
     }
   }
 ]
