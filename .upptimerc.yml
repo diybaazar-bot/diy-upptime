@@ -6,7 +6,9 @@ sites:
   - name: DIY Baazar - Home
     url: https://diybaazar.com  
   - name: DIY Baazar Dev - Home
-    url: https://dev.diybaazar.com
+    url: https://dev.diybaazar.com  
+  - name: DIY Baazar Docs
+    url: https://docs.diybaazar.com
 
 assignees: # Users to assign downtime issues (optional)
   - shivishbrahma
