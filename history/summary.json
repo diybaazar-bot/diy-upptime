@@ -4,18 +4,20 @@
     "url": "https://diybaazar.com",
     "icon": "https://icons.duckduckgo.com/ip3/diybaazar.com.ico",
     "slug": "diy-baazar-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1064,
-    "timeDay": 1223,
-    "timeWeek": 1300,
-    "timeMonth": 1064,
-    "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "time": 1046,
+    "timeDay": 1031,
+    "timeWeek": 1216,
+    "timeMonth": 1046,
+    "timeYear": 1046,
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "DIY Baazar Dev - Home",
