@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/diybaazar.com.ico",
     "slug": "diy-baazar-home",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1078,
-    "timeDay": 1386,
-    "timeWeek": 1112,
-    "timeMonth": 1114,
+    "timeDay": 1076,
+    "timeWeek": 1110,
+    "timeMonth": 1121,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2024-07-10": 21
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1021,
-    "timeDay": 842,
-    "timeWeek": 977,
-    "timeMonth": 995,
-    "timeYear": 1021,
+    "time": 1024,
+    "timeDay": 1160,
+    "timeWeek": 1012,
+    "timeMonth": 1019,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2024-07-07": 15
     }
@@ -48,13 +48,13 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1618,
-    "timeDay": 494,
-    "timeWeek": 1599,
-    "timeMonth": 1618,
-    "timeYear": 1618,
+    "time": 1621,
+    "timeDay": 1720,
+    "timeWeek": 1748,
+    "timeMonth": 1621,
+    "timeYear": 1621,
     "dailyMinutesDown": {
       "2024-06-18": 40
     }
