@@ -4,18 +4,19 @@
     "url": "https://diybaazar.com",
     "icon": "https://icons.duckduckgo.com/ip3/diybaazar.com.ico",
     "slug": "diy-baazar-home",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 1106,
     "timeDay": 1089,
     "timeWeek": 1254,
     "timeMonth": 1187,
     "timeYear": 1106,
     "dailyMinutesDown": {
+      "2024-07-28": 3,
       "2024-07-10": 21
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://dev.diybaazar.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.diybaazar.com.ico",
     "slug": "diy-baazar-dev-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1063,
@@ -36,6 +37,7 @@
     "timeMonth": 1105,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2024-07-28": 2,
       "2024-07-07": 15
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://docs.diybaazar.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.diybaazar.com.ico",
     "slug": "diy-baazar-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 1830,
     "timeYear": 1695,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-06-18": 40
     }
   }
