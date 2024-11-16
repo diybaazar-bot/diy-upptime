@@ -5,8 +5,8 @@ repo: diy-upptime # The name of this repository
 sites:
   - name: DIY Baazar - Home
     url: https://diybaazar.com  
-  - name: DIY Baazar Dev - Home
-    url: https://dev.diybaazar.com  
+  - name: DIY Baazar Test - Home
+    url: https://test.diybaazar.com  
   - name: DIY Baazar Docs
     url: https://docs.diybaazar.com
 
