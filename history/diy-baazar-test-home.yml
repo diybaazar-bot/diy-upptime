@@ -1,7 +1,7 @@
 url: https://test.diybaazar.com
-status: up
-code: 200
-responseTime: 1300
-lastUpdated: 2024-12-11T23:10:09.828Z
+status: down
+code: 503
+responseTime: 873
+lastUpdated: 2024-12-12T19:22:09.163Z
 startTime: 2024-11-16T14:50:47.795Z
 generator: Upptime <https://github.com/upptime/upptime>
