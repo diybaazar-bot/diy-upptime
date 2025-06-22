@@ -9,6 +9,8 @@ sites:
     url: https://test.diybaazar.com  
   - name: DIY Baazar Docs
     url: https://docs.diybaazar.com
+  - name: DIY Baazar Airflow
+    url: https://airflow.diybaazar.com
 
 assignees: # Users to assign downtime issues (optional)
   - shivishbrahma
