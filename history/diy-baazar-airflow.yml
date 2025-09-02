@@ -1,7 +1,7 @@
 url: https://airflow.diybaazar.com
-status: down
-code: 522
-responseTime: 19828
-lastUpdated: 2025-09-02T09:59:28.252Z
+status: up
+code: 200
+responseTime: 1017
+lastUpdated: 2025-09-02T10:16:24.084Z
 startTime: 2025-06-22T03:57:10.386Z
 generator: Upptime <https://github.com/upptime/upptime>
